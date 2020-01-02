@@ -4,6 +4,9 @@ import entity.Deck;
 
 import java.util.Random;
 
+/**
+ * fisherYates算法
+ */
 public class FisherYates implements Shuffle {
 
     @Override
